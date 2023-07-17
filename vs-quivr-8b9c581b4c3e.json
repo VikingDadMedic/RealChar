@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "vs-quivr",
+  "private_key_id": "8b9c581b4c3e665f72a1c2d97a8c0ae359d50854",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC3b8N8c/oULx0o\nfKB5ykz72mx4I1WFsYeqdSEIVkz3MCm6O/5Rt3/NRHlVBsC0iayWuScfHG0I4knj\nYJhTF8Ad/06TWAeYoPDgww1IehU5lC0CJmkv2zTxDJqD+2F8FACsceOj5OQ68z0D\n5ak2Yfb9kTiibuQ8mYAQTcqE10zAbLdgmrd6DV8Gk9QgVIrqfH1+XZAtK/ad6FPW\nGRK13Z2XShrNdXXRu35VXQqnb0RjX2tEGUzUvHA/smt57Gazs31UoXqI2bF4Z1hV\nj2XiS0QJD+lcwHKvG4NRP1gB4pwwtfdj9+IdvYJiHYhRtCdj0GZOX7AJa8wDHx63\n4rUxI14xAgMBAAECggEAFgHIE6m8UmiWmHFfNU1ScBKz2bPvgjMawhX8SQpFgJBc\nKTYiXD5mDEPPRKajPuWXeZur+F0KLbssPyWrEKj0SQUEscOpYaPJUkXEVbIj0r0W\nqz/ddbrYPqUS8ouZle+2Zvng5BxFT1c4Njv60YXuQlyGTWJ9alHGHe6fQdGsqRcN\n5hQ4WiH4SQZa9bj6OYDl5FXHkVOtvPXUHtbZ9+DC/H/vmc0hoe19nGoO60EDayyL\nOK5tqPnqWT8vVSZOp4L4e+YWr4G2klK3O2UyS9MFDXK84VVzILlqrXSF83cfHkcn\n778ZZzK2h8qh6wyPy/8tinOkU6KZKuF86hMWJejJcwKBgQDcUfh4p84OME4uLAaL\nwhBBECaS+utlKGJyzJfv8ZFv3Y7D1tZlld02jbg1pUBpmZxarEAEcugY0u/ovcng\nDlpRXKOOgUVR/9y5wloGjubLVJ5o+JpvtUe7HDLf6nFVirDUuO8yANNdlsW3QSbp\n9b9VzSTxk3V00zwH1WxtfHC+ywKBgQDVJKw6J10s9Nt0n7us7eBphJw4Vl59Bfzh\nv3smrsjSPaIioeCbqyMDMjS8FxrTKb+7Gb2QOmGKv/LTmiNYqUzdRsBRApnr+xBK\niPiHSsD+YSFQEgW64hssFoinkFmq4vZ12EY8re5vJOBuE9dE7ttnrdBc1olaipfV\nohNKpxLbcwKBgE80CKcXbDQdmX1vxkqn0UASlktweP88rWentVdE+IvGknRE335V\nidj6yaY/ahCMcHEIS1tOE7IY4rZAxDoP7tgg/YtVXZ5E5QzCmaqR5NZj7S6/cIWI\nHeleEcv9dBDUcw2GDjdjpJiYgyuF+H9TIR2vSgCuiiMdbQ9D4l7ZxY5RAoGAXkoa\n5p8DWR/49V60Z4vT+tnvQfzzT9uWQ0ex8yrfLCKX1zpFYpgSpRdQvOR7uW5+owaA\nFY2+GONRSMqnWFGM71adPTkpXntyeYaeaztmpSHS2tkeL85WtupBCd+Ry0ccQIWs\njKtlD0YBArFESfpglT0PMAK4QJWPFbLdVekTLoECgYBozWlL0mUmT51ZIcWtF/mb\n6+DhvwrxceB7hL4TJj+47F1EfKA79Ovm/4Zp0p2hDjWncRTlfjvIR1oPCA6NLy6p\nTFzkZrrjbBCx7yFxABFPo/r/b/kgsBlH0X0dd4j9WPIDzwpzkRSxox6YBKQ1JciG\n2qnb8eUs7HsAXdX1j1xnwQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "quivr-service@vs-quivr.iam.gserviceaccount.com",
+  "client_id": "114153340214750621897",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/quivr-service%40vs-quivr.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -46,6 +46,8 @@ spec:
           value: <YOUR_AI_VOICE_ID>
         - name: ELON_VOICE
           value: <YOUR_AI_VOICE_ID>
+        - name: TOBY_VOICE
+          value: <YOUR_AI_VOICE_ID>
         - name: JOBS_VOICE
           value: <YOUR_AI_VOICE_ID>
         - name: BRUCE_VOICE

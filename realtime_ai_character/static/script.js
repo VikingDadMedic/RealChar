@@ -458,13 +458,12 @@ function createCharacterGroups(message) {
   // Create a map from character name to image URL
   // TODO: store image in database and let server send the image url to client.
   const imageMap = {
-    'Raiden Shogun And Ei': '/static/raiden.svg',
-    'Loki': '/static/loki.svg',
-    'Ai Character Helper': '/static/ai_helper.png',
-    'Reflection Pi': '/static/pi.jpeg',
-    'Elon Musk': '/static/elon.png',
-    'Bruce Wayne': '/static/bruce.png',
-    'Steve Jobs': '/static/jobs.png',
+    // 'Raiden Shogun And Ei': '/static/raiden.svg',
+    // 'Loki': '/static/loki.svg',
+    // 'Ai Character Helper': '/static/ai_helper.png',
+    // 'Reflection Pi': '/static/pi.jpeg',
+    'Toby': '/static/toby.png',
+    // 'Bruce Wayne': '/static/bruce.png',
   };
 
   const radioButtonDiv = document.getElementsByClassName('radio-buttons')[0];

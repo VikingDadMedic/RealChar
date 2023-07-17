@@ -8,8 +8,10 @@ WORKDIR /realtime_ai_character
 # Copy the project files
 COPY ./ /realtime_ai_character
 
+RUN pip install --upgrade pip
+
 # Install Python dependencies
-RUN pip install -r requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
 # Expose 8000 port from the docker image.
 EXPOSE 8000

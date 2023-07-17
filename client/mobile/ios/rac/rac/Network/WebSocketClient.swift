@@ -169,15 +169,15 @@ class WebSocketClient: NSObject, URLSessionWebSocketDelegate, ObservableObject {
     private func mapCharacterToImageUrl(characterName: String) -> URL? {
         // TODO: Get url from server
         if characterName.contains("Elon") {
-            return  URL(string: "https://storage.googleapis.com/assistly/static/realchar/elon.jpeg")!
+            return  URL(string: "https://d1w5f3vqncwk8i.cloudfront.net/b12f97e1-c727-4192-a27b-e4daf96c150c.png")!
         } else if characterName.contains("Character") {
             return  URL(string: "https://storage.googleapis.com/assistly/static/realchar/ai_helper.png")!
         } else if characterName.contains("Loki") {
             return  URL(string: "https://storage.googleapis.com/assistly/static/realchar/loki.png")!
-        } else if characterName.contains("Pi") {
-            return  URL(string: "https://storage.googleapis.com/assistly/static/realchar/pi.jpeg")!
+        } else if characterName.contains("Toby") {
+            return  URL(string: "https://d1w5f3vqncwk8i.cloudfront.net/b12f97e1-c727-4192-a27b-e4daf96c150c.png")!
         } else if characterName.contains("Raiden") {
-            return  URL(string: "https://storage.googleapis.com/assistly/static/realchar/raiden.png")!
+            return  URL(string: "https://d1w5f3vqncwk8i.cloudfront.net/b12f97e1-c727-4192-a27b-e4daf96c150c.png")!
         }
         return URL(string: "https://storage.googleapis.com/assistly/static/realchar/\(characterName.replacingOccurrences(of: " ", with: "_").lowercased()).jpg")
     }
